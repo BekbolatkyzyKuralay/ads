@@ -1,0 +1,7 @@
+Algorithm,Vertices,Edges,AverageTimeNs,AverageOperations
+KosarajuSCC,10,30,150640.00,30
+TopologicalSortDAG,10,30,448660.00,30
+KosarajuSCC,100,500,653100.00,500
+TopologicalSortDAG,100,500,534360.00,500
+KosarajuSCC,1000,5000,3718920.00,5000
+TopologicalSortDAG,1000,5000,4690080.00,5000
